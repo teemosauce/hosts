@@ -1,1 +1,1 @@
-mv -f .\hosts C:\Windows\System32\drivers\etc\
+git pull && mv -f .\hosts C:\Windows\System32\drivers\etc\
