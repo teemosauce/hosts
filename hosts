@@ -6,8 +6,12 @@
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Localhost (DO NOT REMOVE)
-127.0.0.1	localhost
+127.0.0.1	localhost teemosauce.com teemosauce.io
 ::1	localhost ip6-localhost ip6-loopback
+
+# Work
+218.107.133.95  gitlab.tf003.com.cn
+182.92.222.221 	teemosauce.study
 
 # Modified hosts start
 
