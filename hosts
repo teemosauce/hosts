@@ -9,12 +9,12 @@
 127.0.0.1  	localhost	
 127.0.0.1  	teemo.sauce.com 
 127.0.0.1	teemosauce.io 
-127.0.0.1	syccx.localhost 
-127.0.0.1 	syccz.localhost 
-127.0.0.1	sydhx.localhost 
-127.0.0.1	sydlz.localhost 
-127.0.0.1	sygzl.localhost 
-127.0.0.1	sy.localhost
+127.0.0.1	syccx.localhost.com 
+127.0.0.1 	syccz.localhost.com 
+127.0.0.1	sydhx.localhost.com
+127.0.0.1	sydlz.localhost.com 
+127.0.0.1	sygzl.localhost.com 
+127.0.0.1	sy.localhost.com
  
 ::1	localhost 
 ::1	ip6-localhost 
