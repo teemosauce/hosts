@@ -5,6 +5,14 @@
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+::1	localhost 
+::1	ip6-localhost 
+::1 ip6-loopback 
+::1	localhost 
+::1	localhost.localdomain 
+::1	localhost6 
+::1	localhost6.localdomain6
+
 # Localhost (DO NOT REMOVE)
 127.0.0.1  	localhost	
 127.0.0.1  	teemo.sauce.com 
@@ -14,28 +22,37 @@
 127.0.0.1	sydhx.localhost.com
 127.0.0.1	sydlz.localhost.com 
 127.0.0.1	sygzl.localhost.com 
-127.0.0.1	sy.localhost.com
- 
-::1	localhost 
-::1	ip6-localhost 
-::1 ip6-loopback 
-::1	localhost 
-::1	localhost.localdomain 
-::1	localhost6 
-::1	localhost6.localdomain6       
+127.0.0.1	sy.localhost.com       
 
 # Work
 45.121.53.11	gitlab.tf003.com.cn 
 45.121.53.11	redmine.tf003.com.cn 
+192.168.0.22 	jenkins.tf003.com.cn
+
 182.92.222.221 	teemosauce.study
 
 # 25
-192.168.0.25 	syccx.dev.jmyt.mash5.cn 
-192.168.0.25	syccz.dev.jmyt.mash5.cn 
-192.168.0.25	sydhx.dev.jmyt.mash5.cn 
-192.168.0.25	sydlz.dev.jmyt.mash5.cn 
-192.168.0.25	sygzl.dev.jmyt.mash5.cn 
-192.168.0.25	sy.dev.jmyt.mash5.cn
+#192.168.0.25	syccx.dev.cn 
+#192.168.0.25	syccz.dev.cn 
+#192.168.0.25	sydhx.dev.cn 
+#192.168.0.25	sydlz.dev.cn 
+#192.168.0.25	sygzl.dev.cn 
+#192.168.0.25	sy.dev.cn
+
+#12 
+45.121.53.12	sy.jmyt.mash5.cn
+45.121.53.12	syccz.jmyt.mash5.cn 
+45.121.53.12	sydhx.jmyt.mash5.cn 
+45.121.53.12	sydlz.jmyt.mash5.cn 
+45.121.53.12	sygzl.jmyt.mash5.cn
+
+#176
+10.120.1.176	sy.stg.cn
+10.120.1.176	syccz.stg.cn  
+10.120.1.176	syccx.stg.cn 
+10.120.1.176	sydhx.stg.cn  
+10.120.1.176	sygzl.stg.cn 
+10.120.1.176	sydlz.stg.cn 
 
 # Amazon AWS Start
 54.239.31.69	aws.amazon.com
